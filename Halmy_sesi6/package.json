@@ -1,0 +1,22 @@
+{
+  "name": "halmy_sesi8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests --reporter mochawesome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "assert": "^2.1.0",
+    "mocha": "^11.1.0"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
